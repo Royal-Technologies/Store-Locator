@@ -61,3 +61,12 @@ Simply double-click [`index.html`](file:///D:/laragon/www/Github/Store%20Locator
 ### Method 2: Via Laragon Localhost
 If Laragon is running, visit:
 [http://localhost/Github/Store%20Locator/](http://localhost/Github/Store%20Locator/)
+
+
+---
+
+## 👨‍💻 Developed By
+
+**[Royal Technologies](https://www.royaltechbd.com/)**  
+Innovating modern web, GIS, and smart software solutions.  
+🌐 Website: [https://www.royaltechbd.com/](https://www.royaltechbd.com/)

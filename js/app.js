@@ -47,6 +47,9 @@ document.addEventListener('DOMContentLoaded', () => {
       attributionControl: true
     }).setView([23.8103, 90.4125], 7);
 
+    // Map attribution prefix with Royal Technologies credits
+    map.attributionControl.setPrefix('<a href="https://www.royaltechbd.com/" target="_blank" rel="noopener" style="font-weight:700; color:#047857;">Royal Technologies</a> &middot; <a href="https://leafletjs.com" target="_blank">Leaflet</a>');
+
     // Zoom control at top-left
     L.control.zoom({ position: 'topleft' }).addTo(map);
 
